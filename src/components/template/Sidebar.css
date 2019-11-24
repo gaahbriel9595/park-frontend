@@ -60,3 +60,8 @@ ul ul a {
     background: #6d7fcc;
 }
 
+.nav {
+    flex-direction: column !important;
+    width: 10% !important;
+    position: absolute;
+}
